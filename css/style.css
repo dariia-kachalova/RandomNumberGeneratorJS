@@ -1,5 +1,5 @@
 body {
-	background-color: #00242e;
+	background-color: #C9F87C;
 }
 
 .cont {
@@ -24,5 +24,10 @@ body {
 
 #number {
 	font-size: 28px;
-	color: pink;
+	color: #5B1B87;
+}
+
+.results{
+	flex-direction: column;
+	display: flex;
 }
